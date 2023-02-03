@@ -1,0 +1,3 @@
+New notepad file
+
+Inserting a new line
