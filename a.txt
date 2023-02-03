@@ -1,1 +1,2 @@
 New txt file for git
+New changes to be done (for Git status)
